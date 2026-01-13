@@ -28,35 +28,4 @@ This challenge is designed to test not only your analytical and technical skills
 KEY QUESTIONS TO EXPLORE
 <img width="1024" height="841" alt="image" src="https://github.com/user-attachments/assets/7ee980b4-aebc-4c36-8e5b-7cdb2aea3d50" />
 
-
-1. Which tables and fields in this dataset are most frequently used for reporting or decision-making?
-
-
-2. Which columns appear to represent the same concept (e.g., dates, status, IDs, counts) but differ in name, format, or logic
-
-
-3. Which fields have high missing, null, or inconsistent values, and which of those create real business risk?
-
-
-4. For each critical table, who should own the definitions and quality of the data, based on how it is created and used?
-
-
-5. Which fields show conflicting or outdated values when compared across tables or records?
-
-
-6. Which tables or columns can be confidently labeled high-trust, and which should be flagged as use with caution?
-
-
-7. What metadata is missing for this dataset (field definitions, source system, refresh frequency, transformation rules)?
-
-
-8. Which fields may contain sensitive, personal, or restricted information, and is access currently appropriate?
-
-
-9. Where could different teams reasonably interpret the same field differently, based on naming, values, or lack of definition?
-
-
-10. Based on what we see in this dataset, what are the top three governance actions (definition cleanup, ownership assignment, quality rules, access control) we should take in the next 90 days?
-
-
 Dataset : [Data_Governance_C34.xlsx](https://github.com/user-attachments/files/24587054/Data_Governance_C34.xlsx)
