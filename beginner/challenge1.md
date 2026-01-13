@@ -26,6 +26,8 @@ This challenge is designed to test not only your analytical and technical skills
 
 
 KEY QUESTIONS TO EXPLORE
+<img width="1024" height="841" alt="image" src="https://github.com/user-attachments/assets/7ee980b4-aebc-4c36-8e5b-7cdb2aea3d50" />
+
 
 1. Which tables and fields in this dataset are most frequently used for reporting or decision-making?
 
