@@ -9,9 +9,6 @@ This repository is designed to help students, learners, and aspiring data analys
 - **Beginner** 🟢  
   Simple challenges to get started with datasets, basic SQL queries, Excel, and descriptive statistics.
 
-1. **Enterprise Data Governance Data Analysis** : 
-
-
 - **Intermediate** 🟡  
   Medium-level problems involving joins, aggregations, Python data wrangling, and Power BI dashboards.
 
