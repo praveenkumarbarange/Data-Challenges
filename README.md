@@ -11,7 +11,6 @@ This repository is designed to help students, learners, and aspiring data analys
 
 1. **Enterprise Data Governance Data Analysis** : 
 
-https://github.com/praveenkumarbarange/Data-Challenges/edit/main/beginner/challenge1.md
 
 - **Intermediate** 🟡  
   Medium-level problems involving joins, aggregations, Python data wrangling, and Power BI dashboards.
